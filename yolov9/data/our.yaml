@@ -1,0 +1,7 @@
+train: C:/test/datasets/train.txt
+val: C:/test/VOCdevkit/images/val76_85/
+test: C:/test/datasets/test.txt
+
+# Classes
+nc: 10  # number of classes
+names: ['Audi_A4', 'Buick_Lacrosse', 'Ford_Fox', 'Honda_accord', 'MAGOTAN', 'Nissan_Sylphy', 'Nissan_Tiida', 'Toyoda_Kamimizu', 'Toyota_Carola', 'Toyota_corolla']  # class names
